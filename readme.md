@@ -11,7 +11,7 @@
 
 1. Clone o projeto
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/danielfk11/Desafio-L2-.NET/
 cd Desafio-L2-.NET
 ```
 
