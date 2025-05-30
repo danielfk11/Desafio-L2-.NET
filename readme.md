@@ -25,7 +25,7 @@ cp env.example .env
 docker-compose up --build
 ```
 
-A API estará disponível em: http://localhost:5050
+A API estará disponível em: [http://localhost:5050](http://localhost:5050/swagger/index.html)
 
 ## 🧪 Testes
 
